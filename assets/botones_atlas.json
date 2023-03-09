@@ -1,0 +1,398 @@
+{
+    "frames": [
+        {
+            "filename": "boton-grande",
+            "frame": {
+                "w": 338,
+                "h": 84,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-grande-disable",
+            "frame": {
+                "w": 338,
+                "h": 84,
+                "x": 0,
+                "y": 84
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-lanzar",
+            "frame": {
+                "w": 293,
+                "h": 293,
+                "x": 0,
+                "y": 168
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-lanzar-disable",
+            "frame": {
+                "w": 278,
+                "h": 278,
+                "x": 338,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-azar",
+            "frame": {
+                "w": 268,
+                "h": 84,
+                "x": 293,
+                "y": 278
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-azar-disable",
+            "frame": {
+                "w": 268,
+                "h": 84,
+                "x": 293,
+                "y": 362
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-anterior",
+            "frame": {
+                "w": 80,
+                "h": 80,
+                "x": 0,
+                "y": 461
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-cambiar-numeros",
+            "frame": {
+                "w": 80,
+                "h": 80,
+                "x": 80,
+                "y": 461
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-cambiar-numeros-disable",
+            "frame": {
+                "w": 80,
+                "h": 80,
+                "x": 160,
+                "y": 461
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-limpiar",
+            "frame": {
+                "w": 80,
+                "h": 80,
+                "x": 240,
+                "y": 461
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-limpiar-disable",
+            "frame": {
+                "w": 80,
+                "h": 80,
+                "x": 320,
+                "y": 446
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-siguiente",
+            "frame": {
+                "w": 80,
+                "h": 80,
+                "x": 400,
+                "y": 446
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "configuracion",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 480,
+                "y": 446
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "full-screen",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 0,
+                "y": 541
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "home",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 72,
+                "y": 541
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "home-disable",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 144,
+                "y": 541
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "informacion",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 216,
+                "y": 541
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "menu",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 288,
+                "y": 541
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "menu-disable",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 360,
+                "y": 526
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "musica-efectos-off",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 432,
+                "y": 526
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "musica-efectos-on",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 504,
+                "y": 518
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "musica-off",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 0,
+                "y": 613
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "musica-on",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 72,
+                "y": 613
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-cerrar",
+            "frame": {
+                "w": 56,
+                "h": 56,
+                "x": 552,
+                "y": 446
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "seleccion-circular-menos-disable",
+            "frame": {
+                "w": 56,
+                "h": 56,
+                "x": 144,
+                "y": 613
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "seleccion-circular-mas-disable",
+            "frame": {
+                "w": 56,
+                "h": 56,
+                "x": 200,
+                "y": 613
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "seleccion-circular-menos",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 561,
+                "y": 278
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "seleccion-circular-mas",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 561,
+                "y": 326
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "linea-circulo-off",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 576,
+                "y": 502
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "linea-circulo-on",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 576,
+                "y": 526
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

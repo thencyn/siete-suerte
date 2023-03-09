@@ -1,0 +1,56 @@
+{
+    "anims": [
+        {
+            "key": "rotacion-moneda-3d",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-01"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-03"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-04"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-05"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-06"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-07"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-08"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-09"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-10"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-11"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-14"
+                }
+            ]
+        }
+    ]
+}

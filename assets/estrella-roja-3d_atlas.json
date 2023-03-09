@@ -1,0 +1,190 @@
+{
+    "frames": [
+        {
+            "filename": "estrella-10",
+            "frame": {
+                "w": 192,
+                "h": 222,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella-14",
+            "frame": {
+                "w": 198,
+                "h": 220,
+                "x": 192,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella-04",
+            "frame": {
+                "w": 123,
+                "h": 220,
+                "x": 0,
+                "y": 222
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella-09",
+            "frame": {
+                "w": 191,
+                "h": 220,
+                "x": 123,
+                "y": 222
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella-12",
+            "frame": {
+                "w": 192,
+                "h": 220,
+                "x": 390,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella-13",
+            "frame": {
+                "w": 199,
+                "h": 220,
+                "x": 314,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella-08",
+            "frame": {
+                "w": 185,
+                "h": 219,
+                "x": 0,
+                "y": 442
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella-07",
+            "frame": {
+                "w": 174,
+                "h": 218,
+                "x": 185,
+                "y": 442
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella-06",
+            "frame": {
+                "w": 127,
+                "h": 216,
+                "x": 359,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella-01",
+            "frame": {
+                "w": 196,
+                "h": 215,
+                "x": 582,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella-02",
+            "frame": {
+                "w": 170,
+                "h": 215,
+                "x": 486,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella-03",
+            "frame": {
+                "w": 144,
+                "h": 215,
+                "x": 513,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella-11",
+            "frame": {
+                "w": 195,
+                "h": 215,
+                "x": 0,
+                "y": 661
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella-05",
+            "frame": {
+                "w": 102,
+                "h": 213,
+                "x": 195,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

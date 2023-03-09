@@ -1,0 +1,68 @@
+{
+    "anims": [
+        {
+            "key": "rotacion-estrella-roja",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 24,
+            "frames": [
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-01"
+                },
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-02"
+                },
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-03"
+                },
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-04"
+                },
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-05"
+                },
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-06"
+                },
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-07"
+                },
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-08"
+                },
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-09"
+                },
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-10"
+                },
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-11"
+                },
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-12"
+                },
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-13"
+                },
+                {
+                    "key": "AtlasEstrellaRoja3D",
+                    "frame": "estrella-14"
+                }
+            ]
+        }
+    ]
+}
