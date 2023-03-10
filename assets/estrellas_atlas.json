@@ -1,0 +1,138 @@
+{
+    "frames": [
+        {
+            "filename": "estrellas-08",
+            "frame": {
+                "w": 430,
+                "h": 350,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrellas-07",
+            "frame": {
+                "w": 430,
+                "h": 350,
+                "x": 0,
+                "y": 350
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrellas-06",
+            "frame": {
+                "w": 430,
+                "h": 350,
+                "x": 430,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrellas-09",
+            "frame": {
+                "w": 430,
+                "h": 350,
+                "x": 430,
+                "y": 350
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrellas-10",
+            "frame": {
+                "w": 430,
+                "h": 350,
+                "x": 0,
+                "y": 700
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrellas-01",
+            "frame": {
+                "w": 390,
+                "h": 340,
+                "x": 430,
+                "y": 700
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrellas-02",
+            "frame": {
+                "w": 390,
+                "h": 340,
+                "x": 0,
+                "y": 1050
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrellas-03",
+            "frame": {
+                "w": 390,
+                "h": 340,
+                "x": 390,
+                "y": 1050
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrellas-04",
+            "frame": {
+                "w": 390,
+                "h": 340,
+                "x": 0,
+                "y": 1390
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrellas-05",
+            "frame": {
+                "w": 334,
+                "h": 340,
+                "x": 390,
+                "y": 1390
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

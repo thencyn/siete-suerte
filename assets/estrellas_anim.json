@@ -1,0 +1,44 @@
+{
+    "anims": [
+        {
+            "key": "anim-estrellas",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasEstrellas",
+                    "frame": "estrellas-08"
+                },
+                {
+                    "key": "AtlasEstrellas",
+                    "frame": "estrellas-09"
+                },
+                {
+                    "key": "AtlasEstrellas",
+                    "frame": "estrellas-10"
+                },
+                {
+                    "key": "AtlasEstrellas",
+                    "frame": "estrellas-06"
+                },
+                {
+                    "key": "AtlasEstrellas",
+                    "frame": "estrellas-07"
+                },
+                {
+                    "key": "AtlasEstrellas",
+                    "frame": "estrellas-01"
+                },
+                {
+                    "key": "AtlasEstrellas",
+                    "frame": "estrellas-02"
+                },
+                {
+                    "key": "AtlasEstrellas",
+                    "frame": "estrellas-03"
+                }
+            ]
+        }
+    ]
+}
